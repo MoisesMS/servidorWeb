@@ -6,7 +6,7 @@ import java.nio.file.Paths;
 
 public class Archivo {
 	private static String getIndex() {
-		return Paths.get("").toAbsolutePath().getParent().toString() + "\\index.html";
+		return Paths.get("").toAbsolutePath() + "\\static\\index.html";
 	}
 
 	public static String readHTML() {

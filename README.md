@@ -10,14 +10,9 @@ de un servidor web.
 
 
 ### Clona el proyecto
-Primero clona el proyecto y genera fuera del mismo un archivo index.html
-siguiendo el ejemplo siguiente.  
+Primero clona el proyecto
 
-
-.\servidorWeb  
-index.html
-
-El archivo "index.html" debe estar fuera de la carpeta principal del proyecto.
+El archivo "index.html" Se encuentra en la carpeta static
 
 ### Compila y ejecuta el proyecto
 
